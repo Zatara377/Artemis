@@ -1,3 +1,4 @@
 Speech Recognition 3.8.1 #https://pypi.org/project/SpeechRecognition/
 vosk 0.3.44 #https://alphacephei.com/vosk/install
-pyaudio 0.2.11 #
+pyaudio 0.2.11 #pipwin install pyaudio
+pyttsx3 2.90 #https://pypi.org/project/pyttsx3/
